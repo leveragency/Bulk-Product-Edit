@@ -1,0 +1,5 @@
+{
+  "name": "Shopify Bulk Editor",
+  "description": "A tool to bulk edit Shopify product CSVs with advanced filtering and actions.",
+  "requestFramePermissions": []
+}
